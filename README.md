@@ -22,6 +22,12 @@ Stay healthy, stay safe.
 https://github.com/Mohitraj27/Medicare
 ```
 
+## Deployed Link 
+
+```
+leranathon.netlify.app
+```
+
 ## Tech Stack
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/manankohlii/spacex-launch-data/search?l=html)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/manankohlii/spacex-launch-data/search?l=css)&nbsp;
@@ -57,8 +63,4 @@ The contents in this website follow the following structure.
 └───Blogs
 ```
 
-## ✨Our valuable Contributors👩‍💻👨‍💻 :
-<a href="https://github.com/Mohitraj27/Medicare/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Mohitraj27/Medicare" />
-</a>
 
