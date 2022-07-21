@@ -59,6 +59,6 @@ The contents in this website follow the following structure.
 
 ## ✨Our valuable Contributors👩‍💻👨‍💻 :
 <a href="https://github.com/Mohitraj27/Medicare/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Mohitraj27/Medicare"/>
+  <img src="https://contrib.rocks/image?repo=Mohitraj27/Medicare" />
 </a>
 
