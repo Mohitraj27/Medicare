@@ -14,7 +14,7 @@ The about us page tells us about our community and what we are aiming at and how
 Then comes Our Doctors page where you can exclusively meet our best experts in any domain.Here you can also book appointment of our various famous doctor.
 Then comes our client review section where we have mentioned our few review of our costumers to our services.
 Blog page is designed for the purpose of sharing articles and other pieces of writing about mental health awareness and some tips and tricks via interactive blogs, so that user can learn to prioritise their mental health.
-Stay healthy, stay safe.
+Stay healthy, stay safe!
 
 ## Project Repository 
 
