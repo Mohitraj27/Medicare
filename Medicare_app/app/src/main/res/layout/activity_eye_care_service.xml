@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Eye_care_service">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="419dp"
+        android:layout_height="86dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="𝚆𝚎 𝚖𝚊𝚔𝚎 𝚘𝚞𝚛 𝚎𝚟𝚎𝚛𝚢 𝚎𝚏𝚏𝚘𝚛𝚝 𝚝𝚘 𝚎𝚗𝚑𝚊𝚗𝚌𝚎 𝚢𝚘𝚞𝚛 𝚟𝚒𝚜𝚒𝚘𝚗."
+        android:textColor="#144970"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="464dp"
+        android:layout_height="335dp"
+        android:layout_marginTop="-1600dp"
+        android:src="@drawable/eye_gif_1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.483"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.876" />
+
+    <Button
+        android:id="@+id/eye_Care_excercise"
+        android:layout_width="363dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="𝙴𝚢𝚎 𝙲𝚊𝚛𝚎 𝙴𝚡𝚌𝚎𝚛𝚌𝚒𝚜𝚎"
+        android:textColor="#FFF"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.938" />
+
+    <Button
+
+        android:id="@+id/Doctors"
+        android:layout_width="363dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="@string/Book_appointment"
+        android:textColor="#FFF"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.793" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

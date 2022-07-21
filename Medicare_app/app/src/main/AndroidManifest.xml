@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.learnathon1">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/app_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/app_logo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Learnathon1"
+        tools:targetApi="31">
+        <activity
+            android:name=".doctor_consulation"
+            android:exported="false"
+            android:label="@string/Book_appointment"/>
+        <activity
+            android:name=".splash_screen"
+            android:exported="true" />
+        <activity
+            android:name=".Blood_service"
+            android:exported="true"
+            android:label="𝐁𝐥𝐨𝐨𝐝 𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧"
+            android:parentActivityName=".Home_page" />
+        <activity
+            android:name=".Soul_care"
+            android:exported="true"
+            android:label="𝗦𝗼𝘂𝗹 𝗖𝗮𝗿𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲"
+            android:parentActivityName=".Home_page" />
+        <activity
+            android:name=".Eye_care_excercise"
+            android:exported="true"
+            android:label="𝗘𝘆𝗲 𝗖𝗮𝗿𝗲 𝗘𝘅𝗰𝗲𝗿𝗰𝗶𝘀𝗲"
+            android:parentActivityName=".Eye_care_service" />
+        <activity
+            android:name=".Heart_care_excercise"
+            android:exported="true"
+            android:label="𝐇𝐞𝐚𝐫𝐭 𝐂𝐚𝐫𝐞 𝐄𝐱𝐜𝐞𝐫𝐜𝐢𝐬𝐞"
+            android:parentActivityName=".Heart_care_Service" />
+        <activity
+            android:name=".Eye_care_service"
+            android:exported="true"
+            android:label="𝐄𝐲𝐞 𝐂𝐚𝐫𝐞 𝐒𝐞𝐫𝐯𝐢𝐜𝐞"
+            android:parentActivityName=".Home_page" />
+        <activity
+            android:name=".Heart_care_Service"
+            android:exported="true"
+            android:label="𝗛𝗲𝗮𝗿𝘁 𝗖𝗮𝗿𝗲 𝗦𝗲𝗿𝘃𝗶𝗰𝗲"
+            android:parentActivityName=".Home_page" />
+        <activity
+            android:name=".Home_page"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

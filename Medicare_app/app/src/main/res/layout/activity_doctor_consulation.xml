@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".doctor_consulation">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/gifImageView2"
+        android:layout_width="463dp"
+        android:layout_height="259dp"
+        android:layout_marginTop="-1600dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/book_aapointment_gif"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.269"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.791" />
+
+    <TextView
+        android:layout_width="395dp"
+        android:layout_height="222dp"
+        android:layout_marginTop="20dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="𝐆𝐞𝐭 𝐚𝐧 𝐄𝐱𝐩𝐞𝐫𝐭 𝐌𝐞𝐝𝐢𝐜𝐚𝐥 𝐎𝐩𝐢𝐧𝐢𝐨𝐧 𝐟𝐫𝐨𝐦 𝐨𝐧𝐞 𝐨𝐟 𝐨𝐮𝐫 𝐰𝐨𝐫𝐥𝐝-𝐫𝐞𝐧𝐨𝐰𝐧𝐞𝐝 𝐬𝐩𝐞𝐜𝐢𝐚𝐥𝐢𝐬𝐭𝐬 𝐬𝐨 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐡𝐚𝐯𝐞 𝐭𝐡𝐞 𝐚𝐧𝐬𝐰𝐞𝐫𝐬 𝐚𝐧𝐝 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐜𝐞 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐢𝐧𝐟𝐨𝐫𝐦𝐞𝐝 𝐝𝐞𝐜𝐢𝐬𝐢𝐨𝐧𝐬 𝐚𝐛𝐨𝐮𝐭 𝐲𝐨𝐮𝐫 𝐡𝐞𝐚𝐥𝐭𝐡.
+"
+        android:textColor="#144970"
+        android:textSize="22sp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.615" />
+
+    <ImageButton
+        android:id="@+id/floatingActionButton2"
+        android:layout_width="85dp"
+        android:layout_height="98dp"
+        android:layout_marginStart="50dp"
+        android:clickable="true"
+        android:onClick="Get_in_touch_with_us"
+        android:scaleType="fitCenter"
+        android:src="@drawable/fill_form_512"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.868"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.847" />
+
+    <Button
+        android:layout_width="348dp"
+        android:layout_height="72dp"
+        android:onClick="Google_form"
+        android:src="@drawable/doctors_image"
+        android:text="𝐁𝐨𝐨𝐤 𝐲𝐨𝐮𝐫 𝐚𝐩𝐩𝐨𝐢𝐧𝐭𝐦𝐞𝐧𝐭"
+        android:textColor="#FFFF"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.396"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.975" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Blood_service">
+    <TextView
+
+        android:layout_width="453dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="
+𝐘𝐨𝐮𝐫 𝐥𝐢𝐭𝐭𝐥𝐞 𝐞𝐟𝐟𝐨𝐫𝐭 𝐜𝐚𝐧 𝐠𝐢𝐯𝐞 𝐨𝐭𝐡𝐞𝐫𝐬 𝐬𝐞𝐜𝐨𝐧𝐝  𝐜𝐡𝐚𝐧𝐜𝐞 𝐭𝐨 𝐥𝐢𝐯𝐞 𝐥𝐢𝐟𝐞.
+"
+        android:textColor="#144970"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="767dp"
+        android:layout_height="397dp"
+        android:layout_marginTop="-1600dp"
+
+        android:src="@drawable/blood_donation"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.897" />
+
+    <Button
+        android:onClick="Red_cross"
+        android:id="@+id/heart_Care_excercise"
+        android:layout_width="363dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="𝐃𝐨𝐧𝐚𝐭𝐞 𝐲𝐨𝐮𝐫 𝐁𝐥𝐨𝐨𝐝"
+        android:textColor="#FFF"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.975" />
+
+    <Button
+
+        android:onClick="Red_cross"
+        android:layout_width="363dp"
+        android:layout_height="61dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="
+𝐅𝐢𝐧𝐝 𝐚 𝐁𝐥𝐨𝐨𝐝 𝐃𝐨𝐧𝐨𝐫"
+        android:textColor="#FFF"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.85" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

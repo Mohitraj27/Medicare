@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Eye_care_excercise">
+
+    <TextView
+
+        android:layout_width="571dp"
+        android:layout_height="87dp"
+        android:layout_marginStart="-1dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="5dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="𝗦𝘁𝗮𝗿𝘁 𝘆𝗼𝘂𝗿 𝗘𝘆𝗲 𝗘𝘅𝗰𝗲𝗿𝗰𝗶𝘀𝗲"
+        android:textColor="#144970"
+        android:textSize="22sp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.403" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="353dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="𝙱𝚎𝚗𝚎𝚏𝚒𝚝𝚜 𝚘𝚏 𝙴𝚢𝚎 𝙴𝚡𝚎𝚛𝚌𝚒𝚜𝚎𝚜"
+        android:textColor="#144970"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+    <TextView
+
+        android:layout_width="368dp"
+        android:layout_height="163dp"
+        android:layout_marginStart="11dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="25dp"
+        android:padding="10dp"
+        android:paddingEnd="10dp"
+        android:text="@string/Eye_excercise"
+        android:textColor="#144970"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.131" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="465dp"
+        android:layout_height="336dp"
+        android:layout_marginTop="-1600dp"
+        android:src="@drawable/eye_yoga_shifting"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="116dp"
+        android:layout_height="137dp"
+        android:layout_marginTop="-1600dp"
+        android:src="@drawable/sand_timer"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.846" />
+</androidx.constraintlayout.widget.ConstraintLayout>
