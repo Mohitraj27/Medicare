@@ -2,10 +2,10 @@
 
 ## About The Project
 It consists of two segments 
-1) Web app
-2) Android app
-In the first segment Medicare Web App is a Web Development Project. It is a Medical portal where we aim to spread awareness and help user find ways to improve their well being. It is designed with a minimalist interface for better user experience without any hurdle.
 
+1) Android app
+In the first segment Medicare Web App is a Web Development Project. It is a Medical portal where we aim to spread awareness and help user find ways to improve their well being. It is designed with a minimalist interface for better user experience without any hurdle.
+1) Web App
 The project consists of 6 segments: Home page, Our services, About us, Our experts,Book now  and client reviews. Home page is the main page of the portal comprising of brief description about the website, contact details, testimonials and other navigation options to move anywhere inside the portal.
 Our Services consists of the medical facility we provide to user in various fields. user can log into various services differently and get the benefits of it by reading about it or by booking any appointments to our experts in that domain.
 The about us page tells us about our community and what we are aiming at and how to make our portal efficient for users and help them in any urgencies. 
