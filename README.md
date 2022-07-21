@@ -34,7 +34,7 @@
 ```
 https://github.com/Mohitraj27/Medicare
 ```
-##Link to our website
+## Link to our website
 ```
 https://github.com/Mohitraj27/Medicare
 ```
@@ -108,4 +108,6 @@ https://github.com/Mohitraj27/Medicare
 
 
 https://user-images.githubusercontent.com/87956374/180248497-a4bd2204-7735-4f6a-bfaf-734206bb710c.mp4
+
+## Website images
 
