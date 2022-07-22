@@ -36,7 +36,7 @@ https://github.com/Mohitraj27/Medicare
 ```
 ## Link to our website
 ```
-https://github.com/Mohitraj27/Medicare
+https://leranathon.netlify.app/
 ```
 
 ## 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
@@ -109,7 +109,7 @@ https://github.com/Mohitraj27/Medicare
 
 https://user-images.githubusercontent.com/87956374/180248497-a4bd2204-7735-4f6a-bfaf-734206bb710c.mp4
 
-## Website images
+## 𝚆𝚎𝚋𝚜𝚒𝚝𝚎 𝚒𝚖𝚊𝚐𝚎𝚜
 ![first](https://user-images.githubusercontent.com/78794164/180301579-4da4902d-5e57-48a2-9f82-1420631adc73.jpg)
 
 ![second](https://user-images.githubusercontent.com/78794164/180301650-302a6ab6-4f97-4815-afb4-f5f0c0cd5185.jpg)
@@ -123,4 +123,4 @@ https://user-images.githubusercontent.com/87956374/180248497-a4bd2204-7735-4f6a-
 ![nineth](https://user-images.githubusercontent.com/78794164/180301911-567bb056-d2fe-4894-9d3a-1622a8d7377e.jpg)
 ![tenth](https://user-images.githubusercontent.com/78794164/180301931-fd2ada16-d737-4a79-b87b-c415c5344815.jpg)
 
-Leave a star if you like our project. Stay safe stay healthy!
+𝙻𝚎𝚊𝚟𝚎 𝚊 𝚜𝚝𝚊𝚛 𝚒𝚏 𝚢𝚘𝚞 𝚕𝚒𝚔𝚎 𝚘𝚞𝚛 𝚙𝚛𝚘𝚓𝚎𝚌𝚝. 𝚂𝚝𝚊𝚢 𝚜𝚊𝚏𝚎 𝚜𝚝𝚊𝚢 𝚑𝚎𝚊𝚕𝚝𝚑𝚢!
